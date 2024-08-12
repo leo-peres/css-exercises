@@ -3,6 +3,13 @@
   border: 4px solid midnightblue;
   width: 400px;
   height: 300px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /*alternatively, I could've used "margin: auto;" in the .box below*/
+
 }
 
 .box {
